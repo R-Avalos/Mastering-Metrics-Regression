@@ -1,0 +1,10 @@
+Student,Group,Ivy,Leafy,Smart,All State,Tall State,Altered State,1996 Earnings
+1,a,,Reject,Admit,,Admit,,110000
+2,a,,Reject,Admit,,Admit,,100000
+3,a,,Reject,Admit,,Admit,,110000
+4,b,Admit,,,Admit,,Admit,60000
+5,b,Admit,,,Admit,,Admit,30000
+6,c,,Admit,,,,,115000
+7,c,,Admit,,,,,75000
+8,d,Reject,,,Admit,Admit,,90000
+9,d,Reject,,,Admit,Admit,,60000
